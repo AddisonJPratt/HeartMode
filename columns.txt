@@ -1,0 +1,6 @@
+# ejection_fraction - 123
+# high_blood_pressure - 0,1
+# serum_creatinine - 1234
+# time - 123456
+# age - 0,100
+# diabetes - 0,1
