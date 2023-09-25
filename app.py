@@ -3,7 +3,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 
-loaded_model = joblib.load("filename.joblib")
+loaded_model = joblib.load("filename (1).joblib")
 
 columns = [
     "ejection_fraction",
